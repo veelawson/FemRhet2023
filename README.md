@@ -1,7 +1,7 @@
 # FemRhet2023
 "Snarking to Repair" presented at Feminisms and Rhetorics 2023
 
-To view the slides, click the "Website" link in the upper right corner of this page.
+To view the slides, click link in the upper right corner of this page or go to https://veelawson.github.io/FemRhet2023/.
 Once you have the slides open, press "S" on your keyboard to view the speaker notes.
 
 This material draws on my dissertation research--please do not distribute it beyond this access copy!
